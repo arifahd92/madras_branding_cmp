@@ -4,8 +4,8 @@ import classes from "./footer.module.css";
 function Footer() {
   return (
     <>
-      <div className={classes.container}>
-        <div className="container">
+      <div className="container">
+        <div className={classes.container}>
           <div className="row d-flex justify-content-center align-items-center">
             <div className="col-sm-4 d-flex justify-content-center align-items-center">
               <img
